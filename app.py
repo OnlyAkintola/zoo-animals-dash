@@ -5,7 +5,7 @@ import plotly.graph_objs as go
 
 ########### Set up the chart
 
-myfavoritecolor='C74A2F'
+myfavoritecolor='gold'
 x_list=['tigers', 'bears', 'apes']
 y_list=y=[32, 48, 77]
 
